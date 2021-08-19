@@ -7,8 +7,7 @@
         "radio": "*",
         "microphone": "*",
         "kitronik_RTC": "github:KitronikLtd/pxt-kitronik-rtc-base#v0.0.12",
-        "BME688": "github:unknown658/pxt-project-mega-sense#v0.0.3",
-        "EEPROM": "github:unknown658/pxt-project-memory#v0.0.3"
+        "BME688": "github:unknown658/pxt-project-mega-sense#v0.0.3"
     },
     "files": [
         "README.md",
