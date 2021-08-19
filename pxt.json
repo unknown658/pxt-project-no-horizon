@@ -1,6 +1,6 @@
 {
     "name": "pxt-project-no-horizon",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,7 @@
         "microphone": "*",
         "kitronik_RTC": "github:KitronikLtd/pxt-kitronik-rtc-base#v0.0.12",
         "BME688": "github:unknown658/pxt-project-mega-sense#v0.0.3",
-        "EEPROM": "github:unknown658/pxt-project-memory#v0.0.2"
+        "EEPROM": "github:unknown658/pxt-project-memory#v0.0.3"
     },
     "files": [
         "README.md",
